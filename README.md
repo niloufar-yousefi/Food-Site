@@ -2,7 +2,6 @@
 
 **This PRoject has a toggle sidebar menu and button for fillterind food data**
 
-
 ![1](https://github.com/user-attachments/assets/1ba2e70d-4865-487a-b2f8-712b269602e5)
 ![2](https://github.com/user-attachments/assets/5c244732-a046-431a-983d-522c27638f0d)
 ![3](https://github.com/user-attachments/assets/2d47137a-7b3d-4709-bd9c-0c97ee829904)
